@@ -5,6 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 	    <!-- aaa -->
 	    <!-- zj -->
+	    <!-- master update-->
     <groupId>com.zb</groupId>
     <artifactId>mydubbo.db</artifactId>
     <packaging>pom</packaging>
