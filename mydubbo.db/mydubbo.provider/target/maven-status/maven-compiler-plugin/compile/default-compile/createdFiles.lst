@@ -1,0 +1,4 @@
+com\zb\mapper\DeptMapper.class
+com\zb\service\impl\RpcDeptServceImpl.class
+com\zb\TestProvider.class
+com\zb\service\impl\RpcDeptServceImpl2.class
