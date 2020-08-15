@@ -6,6 +6,7 @@
 	    <!-- aaa -->
 	    <!-- zj -->
 	    <!-- master update-->
+	    <!-- zjupdate -->
     <groupId>com.zb</groupId>
     <artifactId>mydubbo.db</artifactId>
     <packaging>pom</packaging>
